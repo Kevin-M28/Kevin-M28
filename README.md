@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am a passionate Costa Rica Back-End development who has a strong desire to learn new things, work as a team and face new challenges.I’m currently studying at the Universidad Nacional de Costa Rica.<br><br>I have a strong knowledge in Java, Spring Boot and Interfaces.<br><br>•📚 I'm currently learning React and Python<br>•⚡ In my free time, I enjoy going to quiet places like a mountain and staying there for a few days, as well as listening to music and trying new food.</p>
+<p align="left">I am a passionate Back-End development from Costa Rica who has a strong desire to learn new things, work as a team and face new challenges.I’m currently studying at the Universidad Nacional de Costa Rica.<br><br>I have a strong knowledge in Java, Spring Boot and Interfaces.<br><br>•📚 I'm currently learning React and Python<br>•⚡ In my free time, I enjoy going to quiet places like a mountain and staying there for a few days, as well as listening to music and trying new food.</p>
 
 ###
 
