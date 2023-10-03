@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools 🛠</h3>
 
 ###
 
@@ -66,7 +66,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Kevin-M28/Kevin-M28/output/snake.svg" alt="Snake animation" />
 
 ###
