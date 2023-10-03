@@ -15,8 +15,6 @@
 
 ###
 
-###
-
 <h1 align="center">Hey there👋</h1>
 
 ###
@@ -25,11 +23,11 @@
 
 ###
 
-<p align="left">I am a passionate Back-End development from Costa Rica who has a strong desire to learn new things, work as a team and face new challenges.I’m currently studying at the Universidad Nacional de Costa Rica.<br><br>I have a strong knowledge in Java, Spring Boot and Interfaces.<br><br>•📚 I'm currently learning React and Python<br>•⚡ In my free time, I enjoy going to quiet places like a mountain and staying there for a few days, as well as listening to music and trying new food.</p>
+<p align="left">I am a passionate Costa Rica Back-End development who has a strong desire to learn new things, work as a team and face new challenges.I’m currently studying at the Universidad Nacional de Costa Rica.<br><br>I have a strong knowledge in Java, Spring Boot and Interfaces.<br><br>•📚 I'm currently learning React and Python<br>•⚡ In my free time, I enjoy going to quiet places like a mountain and staying there for a few days, as well as listening to music and trying new food.</p>
 
 ###
 
-<h3 align="center">🛠 Language and tools 🛠</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -60,7 +58,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-M28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Kevin-M28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
 
 ###
