@@ -46,7 +46,7 @@
   <img width="53" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/postgresql-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
